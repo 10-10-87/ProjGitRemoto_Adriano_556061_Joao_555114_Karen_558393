@@ -1,1 +1,3 @@
 # ProjGitRemoto_Adriano_556061_Joao_555114_Karen_558393
+Checkout 2ª parte
+Checkpoint – Adriano_556061_Joao_555114_Karen_558393
